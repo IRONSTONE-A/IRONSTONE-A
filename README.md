@@ -45,3 +45,21 @@ I prefer React & React Native for web/mobile front-end, Node.js & Django technol
 <img src="https://github-readme-stats.vercel.app/api?username=Selman-S&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Selman-S&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selman-S&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p> -->
+
+
+## 📈 Statistics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=IRONSTONE-A&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IRONSTONE-A&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IRONSTONE-A&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+
+
+</div>
+<br>
+<div align="center">
+  <a href="#">
+    <img src="https://activity-graph.herokuapp.com/graph?username=IRONSTONE-A&theme=react-dark" />
+  </a>
+</div>
+
+![snake gif](https://github.com/IRONSTONE-A/IRONSTONE-A/blob/output/github-contribution-grid-snake.gif)
