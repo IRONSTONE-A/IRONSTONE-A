@@ -38,6 +38,7 @@ I prefer React  for web front-end, Node.js & Django technologies for back-end de
  <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="40"/> </a>
  <a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/354354/slack-icon.svg" height="45"/> </a>
+  <a href="#" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/postman-3521648-2945092.png" height="45"/> </a>
 </p>
 <!-- 
 ## 📈 Statistics
