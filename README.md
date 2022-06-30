@@ -19,6 +19,8 @@ I prefer React  for web front-end, Node.js & Django technologies for back-end de
 
 -  You can reach me, my email address: thinkingman.6019@gmail.com
 
+<img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
+
 ## 🚀 Skills
 <p>
  <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>  
