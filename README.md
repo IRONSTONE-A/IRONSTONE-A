@@ -6,7 +6,7 @@
 
 ### What I'm using ? 🛠
 
-I prefer React  for web front-end, Node.js & Django technologies for back-end development.
+I prefer React  for web front-end,  Django technologies for back-end development.
 <br/>
 
 - I’m currently working on front-end development
