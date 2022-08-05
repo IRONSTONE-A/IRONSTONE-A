@@ -56,7 +56,7 @@ I prefer React  for web front-end,  Django technologies for back-end development
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=IRONSTONE-A&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IRONSTONE-A&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif">
+<!-- <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif">
 
 </div>
 <br>
@@ -64,6 +64,6 @@ I prefer React  for web front-end,  Django technologies for back-end development
   <a href="#">
     <img src="https://activity-graph.herokuapp.com/graph?username=IRONSTONE-A&theme=react-dark" />
   </a>
-</div>
+</div> -->
 
 <!-- ![snake gif](https://github.com/IRONSTONE-A/IRONSTONE-A/blob/output/github-contribution-grid-snake.gif) -->
